@@ -33,7 +33,7 @@ for x in range(len(leis)):
     if str(alineas[x]) != "nan":
         v5 = alineas[x]
     BuscaInformacoes(v1,v2,v3,v4,v5)
-    print("******************")
+    print("____________________________________________________")
 
 
 

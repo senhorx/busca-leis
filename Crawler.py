@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import re
 
 def AjustaUrl(url):
     result = url.rsplit('/', 1)[-1]
