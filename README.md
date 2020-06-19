@@ -1,2 +1,2 @@
 # busca-leis
-Busca leis a partidas de um excel, direto do site legislativo brasileiro.
+Busca leis partidas de um excel, direto do site legislativo brasileiro.
